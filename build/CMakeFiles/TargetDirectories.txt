@@ -1,0 +1,9 @@
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/SalesManagement.dir
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/edit_cache.dir
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/rebuild_cache.dir
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/list_install_components.dir
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/install.dir
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/install/local.dir
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/install/strip.dir
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/SalesManagement_autogen_timestamp_deps.dir
+D:/Projects/repos/SalesManagementApplication/build/CMakeFiles/SalesManagement_autogen.dir

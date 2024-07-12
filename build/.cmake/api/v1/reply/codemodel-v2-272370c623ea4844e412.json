@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-7e74da6ed0972eff5d40.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Application",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Application::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Application-Debug-449b5709fc5ac5168625.json",
+					"name" : "Application",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Application_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Application_autogen-Debug-7950afcf5ddad3b993e4.json",
+					"name" : "Application_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Application_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Application_autogen_timestamp_deps-Debug-6e36363b8df5a581ee90.json",
+					"name" : "Application_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Projects/repos/SalesManagementApplication/build",
+		"source" : "D:/Projects/repos/SalesManagementApplication"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/Projects/repos/SalesManagementApplication/build",
+  "command": "D:\\mingw64\\bin\\c++.exe -DMINGW_HAS_SECURE_API=1 -DQT_CHARTS_LIB -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_OPENGLWIDGETS_LIB -DQT_OPENGL_LIB -DQT_SQL_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -ID:/Projects/repos/SalesManagementApplication/build/SalesManagement_autogen/include -ID:/Projects/repos/SalesManagementApplication -ID:/Projects/repos/SalesManagementApplication/ui -ID:/Projects/repos/SalesManagementApplication/include -isystem D:/Qt/6.7.2/mingw_64/include/QtCore -isystem D:/Qt/6.7.2/mingw_64/include -isystem D:/Qt/6.7.2/mingw_64/mkspecs/win32-g++ -isystem D:/Qt/6.7.2/mingw_64/include/QtSql -isystem D:/Qt/6.7.2/mingw_64/include/QtCharts -isystem D:/Qt/6.7.2/mingw_64/include/QtGui -isystem D:/Qt/6.7.2/mingw_64/include/QtWidgets -isystem D:/Qt/6.7.2/mingw_64/include/QtOpenGL -isystem D:/Qt/6.7.2/mingw_64/include/QtOpenGLWidgets -g -std=gnu++17 -o CMakeFiles\\SalesManagement.dir\\SalesManagement_autogen\\mocs_compilation.cpp.obj -c D:\\Projects\\repos\\SalesManagementApplication\\build\\SalesManagement_autogen\\mocs_compilation.cpp",
+  "file": "D:\\Projects\\repos\\SalesManagementApplication\\build\\SalesManagement_autogen\\mocs_compilation.cpp",
+  "output": "CMakeFiles\\SalesManagement.dir\\SalesManagement_autogen\\mocs_compilation.cpp.obj"
+}
+]
