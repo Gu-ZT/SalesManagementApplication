@@ -393,11 +393,6 @@ void EnterInterface::setData(const QModelIndex &index) {
         this->ui->productPrice->setValue(item.getPrice() / 100.0);
     }
 
-    // 如果物品的库存数量大于0，则保存该库存ID
-    if (item.getInventory() > 0) {
-        this->inventoryId = item.getInventory();
-    }
-
     // 如果库存的类型大于0，则根据类型ID在类型列表中找到对应的类型，并设置分类下拉框的当前索引
     if (inventory.getType() > 0) {
         for (int i = 0; i < this->typeList.size(); i++) {
